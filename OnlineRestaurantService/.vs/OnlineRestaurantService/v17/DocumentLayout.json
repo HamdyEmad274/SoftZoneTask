@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|d:\\hamdy\\softzone task\\onlinerestaurantservice\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\context\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:context\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\dtos\\createrestaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:dtos\\createrestaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:dtos\\menuitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:dtos\\restaurantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Migrations\\20240507192122_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:Migrations\\20240507192122_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Migrations\\20240508155920_UpdateRestaurantModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{509D840A-BC10-4D53-AFE9-EFEA28A50823}|OnlineRestaurantService.csproj|solutionrelative:Migrations\\20240508155920_UpdateRestaurantModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Models\\MenuItem.cs",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Models\\MenuItem.cs",
+              "ViewState": "AQIAAAAAAABgZmZmZmYkwAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:51:20.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Models\\Restaurant.cs",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Models\\Restaurant.cs",
+              "RelativeToolTip": "Models\\Restaurant.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:39:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateRestaurantDto.cs",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\DTOs\\CreateRestaurantDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateRestaurantDto.cs",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\DTOs\\CreateRestaurantDto.cs",
+              "RelativeToolTip": "DTOs\\CreateRestaurantDto.cs",
+              "ViewState": "AQIAAAYAAACAmZmZmZkjwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:58:18.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantDto.cs",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\DTOs\\RestaurantDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RestaurantDto.cs",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\DTOs\\RestaurantDto.cs",
+              "RelativeToolTip": "DTOs\\RestaurantDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA2wA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:57:57.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestaurantsController.cs",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "Controllers\\RestaurantsController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAQwIMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:12:13.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantDbContext.cs",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Context\\RestaurantDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\RestaurantDbContext.cs",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Context\\RestaurantDbContext.cs",
+              "RelativeToolTip": "Context\\RestaurantDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA/wBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T18:58:10.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuItemDto.cs",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\DTOs\\MenuItemDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MenuItemDto.cs",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\DTOs\\MenuItemDto.cs",
+              "RelativeToolTip": "DTOs\\MenuItemDto.cs",
+              "ViewState": "AQIAAAIAAAAAzczMzMwEwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:23:42.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAACA//////8HwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T17:42:53.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240508155920_UpdateRestaurantModel.cs",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Migrations\\20240508155920_UpdateRestaurantModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240508155920_UpdateRestaurantModel.cs",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Migrations\\20240508155920_UpdateRestaurantModel.cs",
+              "RelativeToolTip": "Migrations\\20240508155920_UpdateRestaurantModel.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:59:20.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240507192122_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Migrations\\20240507192122_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240507192122_InitialCreate.cs",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\Migrations\\20240507192122_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240507192122_InitialCreate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T19:21:22.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Hamdy\\SoftZone Task\\OnlineRestaurantService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-07T17:46:04.787Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
